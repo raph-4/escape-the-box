@@ -928,7 +928,7 @@ game_complete_rect = game_complete.get_rect(center = (630,100))
 level = -1
 master_vol = 0
 deaths = 0
-bg_music = pygame.mixer.Sound('code/audio\music.wav')
+bg_music = pygame.mixer.Sound('escape the box/resources/audio')
 looped = False
 #bg_music.play(loops = -1)
 #bg_music.set_volume(master_vol)
