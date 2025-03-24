@@ -930,8 +930,6 @@ master_vol = 0
 deaths = 0
 bg_music = pygame.mixer.Sound('escape the box/resources/audio')
 looped = False
-#bg_music.play(loops = -1)
-#bg_music.set_volume(master_vol)
 volume_y_pos = 159
 game_active = True
 door_triggered = None
@@ -1699,7 +1697,6 @@ while game_active:
         if looped == False:
             bg_music.play(loops = -1)
             looped = True
-        #bg_music.set_volume(master_vol)
 
     # renders onto the screen the players coordinates
     font = pygame.font.Font(None, 36)  
