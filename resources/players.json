@@ -1,0 +1,68 @@
+{
+    "why": {
+        "password": "$2b$12$ticrAk8Kb/lTrwwhe7GRz.ukDLsPTrZcMH3GICviVv8YAmuzSz7pO",
+        "clear_time": "01:03",
+        "deaths": 3,
+        "score": 12000
+    },
+    "bison": {
+        "password": "$2b$12$db7x8JyO2JWec3NRCZexY.ibKQPmnIOnLLObooTsk6hB7CsWaF9dS",
+        "clear_time": "00:39",
+        "deaths": 15850, 
+        "score": 150
+    },
+    "haygamster": {
+        "password": "$2b$12$IsqPXB/z.HJMulUl59w.QunGMz/VkWDtxqRW.ruWQekPP8Y2UiXQa",
+        "clear_time": "02:39",
+        "deaths": 34,
+        "score": 0
+    },
+    "admin": {
+        "password": "$2b$12$iQHQrP6R7Exqjh2KCEfwXuSLmh9/5H63rMve1a3DTETF11Z0ZLGzK",
+        "clear_time": "01:46",
+        "deaths": 13,
+        "score": 6150
+    },
+    "play": {
+        "password": "$2b$12$cOUmFCRpH0MMxgZ7hgAMEu2yBFLsIOmltYPZ2YXqKUA.YNdwRdxSe",
+        "clear_time": "00:11",
+        "deaths": 0,
+        "score": 18900
+    },
+    "game": {
+        "password": "$2b$12$hhFvEucMiX23kfTC5/RKp.l.W3qjXc4xBDFLbPEFJlUZxhWOKLP6C",
+        "clear_time": "01:28",
+        "deaths": 8,
+        "score": 8000
+    },
+    "test": {
+        "password": "$2b$12$lvPGJXXoAfw95mszx/k.suBpDuFNmshyDh6ziZC170tqA2ul0fIpK",
+        "clear_time": "00:10",
+        "deaths": 0,
+        "score": 19000
+    },
+    "test2": {
+        "password": "$2b$12$blZhY9jAdEOy7pjbggBoFu9D.KrIPLD9EG7y4KGEL4c0BPa9Dr34q",
+        "clear_time": "00:06",
+        "deaths": 0,
+        "score": 19400
+    },
+    "JRYNXTDUR": {
+        "password": "$2b$12$SglcfOxu4lss8QtBVV.RZO/YyrXb7qEa1Xk8tUbwjsx4Frbs/d/0K",
+        "clear_time": "01:44",
+        "deaths": 12,
+        "score": 6600
+    },
+    "YESSSS": {
+        "password": "$2b$12$i92Xabs/fxKUlfpkRbB3XeOoKwpLX9GiF19OIfHWo32B6nPUlS7eu",
+        "clear_time": "04:15",
+        "deaths": 47,
+        "score": 0
+    },
+    "alex barber": {
+        "password": "$2b$12$XY7jnnTEWYzCbYP1Ao7Yl.Jl3MY0AVKtCMGZbopLZ/Jvr2.yK3/jC",
+        "clear_time": "00:39",
+        "deaths": 4,
+        "score": 15100
+    }
+}
